@@ -1,0 +1,9 @@
+KELEBIHAN DAN KEKURANGAN PHP 7
+>>Kelebihan PHP 7
+a. sangat mudah dipelajari karena banyak sekali tutorial gratis di internet ataupun di buku yang bisa didapatkan untuk dipelajari
+b. membuat pengembangan program berjalan menjadi lebih mudah
+c. programnya cukup ringkas untuk pengembangannya
+d. proses upgrade bisa lebih cepat dan mudah
+>>kekurangan PHP 7
+a. Mudah untuk ditiru orang lain
+b. tidak adanya tipe data pada PHP yang mana pada saat menggunakan bahasa pemrograman PHP muncul bug bug yang tidak diinginkan berkaitan dengan tidak adanya standar type data pada php.
